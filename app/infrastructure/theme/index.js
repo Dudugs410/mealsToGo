@@ -1,5 +1,5 @@
 import { colors } from "./colors";
-import { space, lineHeights } from "./spacing";
+import { space, lineHeights } from "./space";
 import { sizes } from "./sizes";
 import { fonts, fontWeights, fontSizes } from "./fonts";
 

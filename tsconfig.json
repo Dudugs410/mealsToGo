@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/components/spacer.js", "app/infrastructure/theme/colors.js", "app/features/restaurant/components/restaurant-info-card.js", "app/app.js", "app/features/restaurant/screens/restaurants.screen.js", "app/index.js"  ]
 }
