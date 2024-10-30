@@ -13,5 +13,5 @@ export const RestaurantsContextProvider = ({ children }) => {
     >
       {children}
     </RestaurantsContext.Provider>
-  )
-}
+  );
+};
